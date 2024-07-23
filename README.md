@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bala72309@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **The most life-changing book for me is The Alchemist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

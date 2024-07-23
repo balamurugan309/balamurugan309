@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balamurugan</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balamurugan565&label=Profile%20views&color=0e75b6&style=flat" alt="balamurugan565" /> </p>
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/balamurugan__l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balamurugan__l" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/balamurugan-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balamurugan-l" height="30" width="40" /></a>
+<a href="https://twitter.com/balamurugan__l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balamurugan__l" height="30" width="40" /></a>
 <a href="https://instagram.com/balamurugan__l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balamurugan__l" height="30" width="40" /></a>
 </p>
 
